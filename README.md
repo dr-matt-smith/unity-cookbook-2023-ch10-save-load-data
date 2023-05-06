@@ -5,7 +5,7 @@
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-01-higherOrLower
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-00-higherOrLower
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-02-save-load-static
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-02-save-load-player-prefs
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch09-03-read-from-text-file
